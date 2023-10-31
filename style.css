@@ -212,17 +212,16 @@ hr {
     border: 2px solid white;
     border-radius: 10px;
     position: absolute;
-    left: 50%;
     transform: translateX(-50%);
-    margin: 0 auto;
-    bottom: 10%;
     background: black;
     align-items: center;
-    width: 50%;
-    min-width: 80%;
     padding: 0.25rem 0.65rem;
+    top: 275%;
+    width: 25%;
+    height: 15%;
+    left: 27.3%;
 }
-.downloading-box .image-things {
+.image-things {
     max-width: 10%;
     flex-grow: 0;
     flex-shrink: 0;
@@ -232,11 +231,11 @@ hr {
     text-align: left;
     flex-grow: 1;
     flex-shrink: 1;
-    margin: 2% 2%;
+    margin: 12% 12%;
     gap: 10px;
 }
 .stranger{
-    font-size: 0.7rem;
+    font-size: 1.2rem;
     font-weight: 500;
     max-width: 100%;
     display: block;
@@ -244,7 +243,7 @@ hr {
 .down{
     color: #0071eb;
     display: block;
-    font-size: 0.5rem;
+    font-size: 1rem;
     font-weight: 500;
 }
 .downloading-png{
